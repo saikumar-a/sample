@@ -30,3 +30,4 @@ Macro
 1. You can create macro in notepad++ using python script.
 2. Here is the link http://npppythonscript.sourceforge.net/
 3. See macro folder for more details
+4. Tip: Use show console to identify the issues.
