@@ -24,3 +24,9 @@ POST method -- http://host:port/invoke/pub.math:addInts with json parameters
 "num1" :"12",
 "num2" :"14"
 }
+
+Macro
+-----
+1. You can create macro in notepad++ using python script.
+2. Here is the link http://npppythonscript.sourceforge.net/
+3. See macro folder for more details
