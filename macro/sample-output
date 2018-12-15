@@ -1,0 +1,3 @@
+select * from hello where id in ('123','456','698','254','357')
+
+select * from world where id in ('123','456','698','254','357')
