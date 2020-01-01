@@ -12,7 +12,7 @@ Bookmarklet
 3. Bookmarklet -- javascript:function enterLogin(){a="myUserID";b="passwordinbase64";document.getElementById('wm_login-password').value=window.atob(b);document.getElementById('wm_login-username').value=a;document.getElementById('submit_login').click()}enterLogin();
 4. Insert text to splunk textbox-- press spacebar after bookmarklet -- javascript:(function(a){a.value=a.value.slice(0,a.selectionStart)+"this is going to paste"+a.value.slice(a.selectionEnd);})(document.activeElement);
 
-webmethods
+Webmethods
 -----------
 1. You can test the flow services through soap ui using rest resource
 POST method -- http://host:port/invoke/pub.math:addInts with json parameters
