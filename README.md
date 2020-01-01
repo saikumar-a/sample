@@ -1,7 +1,3 @@
-X, y = data[:, 0], data[:, 1] -- First column values in X and second column values are in y
-When a graph is written in the form y = mx + c, m represents the gradient and c represents the y intercept.
-
-
 JIRA
 ----
 1. Gadget -- Filter Results
