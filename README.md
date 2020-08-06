@@ -27,3 +27,6 @@ Macro
 2. Here is the link http://npppythonscript.sourceforge.net/
 3. See macro folder for more details
 4. Tip: Use show console to identify the issues.
+
+
+https://ibm.webex.com/ibm/j.php?MTID=md108fe1bcc2a1e03789e6b3acdaa8889
